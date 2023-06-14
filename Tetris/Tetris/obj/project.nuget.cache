@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJFPpJVPd2ucHe+w0MWNUxGjZ2XD4+k1uMfhPUOy9j4osIYPI/LMv3es1nh1z9pPgfUfFFkxfQ7ZfntcSbgPzQ==",
+  "dgSpecHash": "wZDok7iBm/qKCCK1yU2am2gkdjyOUewKjd5HcWL47hUy9h1NvV8IIQy4lG9pSwJO82cinfCmWHA34ohZTKDgYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yasso\\Desktop\\Website\\Formation_dot_net\\2D_game\\Tetris_CS\\Tetris\\Tetris\\Tetris.csproj",
+  "projectFilePath": "C:\\Users\\yasso\\Desktop\\Website\\Formation_dot_net\\2D_game\\tetris\\Tetris\\Tetris\\Tetris.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

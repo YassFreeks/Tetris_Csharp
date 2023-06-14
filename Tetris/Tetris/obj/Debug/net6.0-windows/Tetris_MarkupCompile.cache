@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\yasso\Desktop\Website\Formation_dot_net\2D_game\tetris\Tetris\Tetris\obj\Release\net6.0-windows\
+C:\Users\yasso\Desktop\Website\Formation_dot_net\2D_game\tetris\Tetris\Tetris\obj\Debug\net6.0-windows\
 Tetris
 none
 false
-TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\yasso\Desktop\Website\Formation_dot_net\2D_game\tetris\Tetris\Tetris\App.xaml
 11407045341
 

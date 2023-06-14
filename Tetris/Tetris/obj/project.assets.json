@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yasso\\Desktop\\Website\\Formation_dot_net\\2D_game\\Tetris_CS\\Tetris\\Tetris\\Tetris.csproj",
+      "projectUniqueName": "C:\\Users\\yasso\\Desktop\\Website\\Formation_dot_net\\2D_game\\tetris\\Tetris\\Tetris\\Tetris.csproj",
       "projectName": "Tetris",
-      "projectPath": "C:\\Users\\yasso\\Desktop\\Website\\Formation_dot_net\\2D_game\\Tetris_CS\\Tetris\\Tetris\\Tetris.csproj",
+      "projectPath": "C:\\Users\\yasso\\Desktop\\Website\\Formation_dot_net\\2D_game\\tetris\\Tetris\\Tetris\\Tetris.csproj",
       "packagesPath": "C:\\Users\\yasso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yasso\\Desktop\\Website\\Formation_dot_net\\2D_game\\Tetris_CS\\Tetris\\Tetris\\obj\\",
+      "outputPath": "C:\\Users\\yasso\\Desktop\\Website\\Formation_dot_net\\2D_game\\tetris\\Tetris\\Tetris\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yasso\\AppData\\Roaming\\NuGet\\NuGet.Config",
